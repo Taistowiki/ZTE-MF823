@@ -1,3 +1,3 @@
 # ZTE-MF823
 
-Tässä reporcityssä on ZTE MF823D konfigurointi tiedostot
+Tässä reporsityssä on ZTE MF823D konfigurointi tiedostot
