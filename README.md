@@ -2,4 +2,6 @@
 
 Tässä reporsityssä on ZTE MF823D konfigurointi tiedostot
 
-Dokumenttaatio: https://www.taisto.org/ZTE_MF823D
+Dokumentaatio: https://www.taisto.org/ZTE_MF823D
+
+Voit muuttaa valikoiden järjestystä siirtämällä miten haluat. 
